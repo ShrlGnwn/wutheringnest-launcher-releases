@@ -1,0 +1,2 @@
+# wutheringnest-launcher-releases
+
