@@ -1,11 +1,11 @@
 {
-  "version": "1.0.3",
-  "notes": "Release 1.0.3",
-  "pub_date": "2025-11-10T16:35:29.953Z",
+  "version": "1.0.4",
+  "notes": "Release 1.0.4",
+  "pub_date": "2025-11-10T20:13:22.515Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSamhLMUdaNnNUS1cxdEh1R3J3YzhZZEF5OUR0ZVRUaVdpSVBtdGgwY1hPM3M3ZUdzaVZDUUl0QWd2a1FhTzNFUFJJWjUzaEdyS0JySEpxQ01TSVBQbVI4SlMvNFJNWlFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYyNzkyNTI5CWZpbGU6V3V0aGVyaW5nTmVzdExhdW5jaGVyXzEuMC4zX3g2NC1zZXR1cC5leGUKUXFjYmp4NVExSW0vYjdSUS9nSkZ6M2pqUFlmSTBuUitmL2VWaVhoemxGdEZuMUdmUlVjdkdOeFRzWW5VZUFoS201WGpyZkxUOUlIYmJSSUhtczFLRFE9PQo=",
-      "url": "https://github.com/ShrlGnwn/wutheringnest-launcher-releases/releases/download/v1.0.3/WutheringNestLauncher_1.0.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSamhLMUdaNnNUS1hiTHcwbUU4aVZ4MERFaVN5TVVldFc5Z3J5ZUh0ZUs5SXY0cVArNVVWaDAvUnZ0eUFJdXIybWU2VE80TUlCM2lpbENhRHJnQjFvNm1HMHZubTQrbXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYyODA1NjAxCWZpbGU6V3V0aGVyaW5nTmVzdExhdW5jaGVyXzEuMC40X3g2NC1zZXR1cC5leGUKdk5SRXdNb2pqOU13RnIzRXVmUm9VT1BEMjF5VmFGenNESDUxTG56bzkrOUdBUTVzbVBnb0RobDk1dVgxdVZyc3hUa280QlJZYStQRmdNYnlTVFJaRGc9PQo=",
+      "url": "https://github.com/ShrlGnwn/wutheringnest-launcher-releases/releases/download/v1.0.4/WutheringNestLauncher_1.0.4_x64-setup.exe"
     }
   }
 }
