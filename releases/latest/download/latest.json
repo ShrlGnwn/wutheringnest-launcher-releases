@@ -1,0 +1,11 @@
+{
+  "version": "1.0.2",
+  "notes": "Release 1.0.2",
+  "pub_date": "2025-11-10T08:45:56.594Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSamhLMUdaNnNUS1dFSW5nL3B4UHBpYWZIVWNxZkVDR09BQ1RhVGZGYVV4M3E3a29qWGdJYW5UaUZUKzc3MXRnOWhtd25XM2M5eXcxMk9kTENzbTZlTkJEYXNGZllPNGdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYyNzY0MzU1CWZpbGU6d3V0aGVyaW5nbmVzdC1sYXVuY2hlcl8xLjAuMl94NjQtc2V0dXAuZXhlCjhlZTNSTmFUSnV4Z3hHMzdrR05ZeStSd2FoakpFSTkvdzdGcXJtblkrOXlYYUpZSHFHTkVnSU40TUY3WTU5ZHJxSWYwaXp6NmZlUyt6RThPOFVWZkJ3PT0K",
+      "url": "https://github.com/ShrlGnwn/wutheringnest-launcher-releases/releases/download/v1.0.2/wutheringnest-launcher_1.0.2_x64-setup.exe"
+    }
+  }
+}
