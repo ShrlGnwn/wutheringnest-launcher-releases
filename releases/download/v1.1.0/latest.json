@@ -1,0 +1,10 @@
+{
+  "version": "1.1.0",
+  "notes": "Release 1.1.0",
+  "pub_date": "2025-11-19T06:14:21.259Z",
+  "platforms": {
+    "windows-x86_64": {
+      "url": "https://github.com/ShrlGnwn/wutheringnest-launcher-releases/releases/download/v1.1.0/WutheringNestLauncher.exe"
+    }
+  }
+}
